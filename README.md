@@ -127,7 +127,9 @@ Foram criadas novas features:
 
 - Interação:
   - Overall Qual × Gr Liv Area
- 
+
+---
+
 Por fim, assim ficou o Score MAE dos modelos:
 ![](/diagrams/model_scores.png)
 
