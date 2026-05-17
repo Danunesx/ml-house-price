@@ -91,6 +91,7 @@ Principais variáveis correlacionadas com SalePrice:
 - Garage Area
 
 Outras análises:
+Queremos analisar as variáveis ​​preditoras que estão correlacionadas com a variável alvo (SalePrice). Vemos que a variável alvo apresenta uma alta correlação positiva com "Overall Qual" e "Gr Liv Area". Observamos também que a variável alvo está positivamente correlacionada com o Year Built, Year Remod/Add, Mas Vnr Area, Total Bsmt SF, 1st Flr SF, Full Bath, Garage Cars, e Garage Area.
 
 ![](/diagrams/displot_OverallQual.png)
 ![](/diagrams/scatter_OverallQual_SalePrice.png)
@@ -100,6 +101,8 @@ Outras análises:
 ![](/diagrams/scatter_variables2_SalePrice.png)
 
 Garagem:
+Existem ainda correlações muito fortes entre as variaveis de Garagem, o que de certa forma faz sentido, mas vamos confirmar essa hipotese com graficos.
+
 ![](/diagrams/colobar_Garage.png)
 
 Basement:
@@ -127,6 +130,8 @@ Foram criadas novas features:
 
 - Interação:
   - Overall Qual × Gr Liv Area
+
+  As features foram normalizadas pelo método StandardScaler().
 
 ---
 
