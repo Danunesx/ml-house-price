@@ -57,7 +57,8 @@ Outras variáveis:
 Outliers prejudicam o modelo.
 
 Foi analisado:
-/diagrams/scatter_GrLivArea_SalePrice.png
+
+![Gr Liv Area vs SalePrice](/diagrams/scatter_GrLivArea_SalePrice.png)
 
 Casas com GrLivArea > 4000 foram removidas por serem outliers.
 
@@ -67,12 +68,12 @@ Casas com GrLivArea > 4000 foram removidas por serem outliers.
 
 Análise da variável alvo:
 
-/diagrams/boxplot_SalePrice.png
-/diagrams/histogram_SalePrice.png
+![](/diagrams/boxplot_SalePrice.png)
+![](/diagrams/histogram_SalePrice.png)
 
 Correlação entre variáveis:
 
-/diagrams/corr_features.png
+![](/diagrams/corr_features.png)
 
 Principais variáveis correlacionadas com SalePrice:
 - Overall Qual
@@ -88,19 +89,19 @@ Principais variáveis correlacionadas com SalePrice:
 
 Outras análises:
 
-/diagrams/displot_OverallQual.png
-/diagrams/scatter_OverallQual_SalePrice.png
-/diagrams/histplot_variables.png
-/diagrams/scatter_variables_SalePrice.png
-/diagrams/histplot_variables2.png
-/diagrams/scatter_variables2_SalePrice.png
+![](/diagrams/displot_OverallQual.png)
+![](/diagrams/scatter_OverallQual_SalePrice.png)
+![](/diagrams/histplot_variables.png)
+![](/diagrams/scatter_variables_SalePrice.png)
+![](/diagrams/histplot_variables2.png)
+![](/diagrams/scatter_variables2_SalePrice.png)
 
 Garagem:
-/diagrams/colobar_Garage.png
+![](/diagrams/colobar_Garage.png)
 
 Basement:
-/diagrams/histplot_variables3.png
-/diagrams/scatter_variables_BsmtFullBath.png
+![](/diagrams/histplot_variables3.png)
+![](/diagrams/scatter_variables_BsmtFullBath.png)
 
 ---
 
