@@ -129,7 +129,7 @@ Foram criadas novas features:
   - Overall Qual × Gr Liv Area
  
 Por fim, assim ficou o Score MAE dos modelos:
-![](\diagrams\model_scores)
+![](\diagrams\model_scores.png)
 
 Portanto, o modelo de regressão linear XGBoost desempenhou melhor nos testes.
 
